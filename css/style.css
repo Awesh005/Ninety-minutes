@@ -1,0 +1,23 @@
+body {
+    background: rgb(255, 254, 254);
+}
+.end {
+    background-color: rgb(255, 110, 110);
+}
+.end {
+    text-align: center;
+}
+nav {
+    background-color:  rgb(255, 110, 110);
+}
+
+.service .card {
+    border: 2px solid rgb(255, 110, 110);
+}
+
+.service .card:hover {
+    box-shadow: 7px -4px 106px -14px rgb(255, 110, 110);
+}
+div.sd {
+    font-size: 20px;
+  }
